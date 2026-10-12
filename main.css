@@ -5,7 +5,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  background: url(images/sunset.jpg) no-repeat;
+  background: url(Images/sunset.jpg) no-repeat;
   background-size: cover;
   font-family: system-ui, helvetica, arial, sans-serif;
   height: 96vh;
